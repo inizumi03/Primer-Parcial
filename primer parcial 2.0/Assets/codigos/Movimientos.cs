@@ -24,6 +24,12 @@ public class Movimientos : MonoBehaviour
 
     void Update()
     {
+        
+            if (Gyroscope.activado) return; // Bloquea el movimiento
+
+            // Movimiento del jugador aquí normalmente
+       
+
         // Movimiento con teclado
         float horizontal = Input.GetAxis("Horizontal");
         float vertical = Input.GetAxis("Vertical");
