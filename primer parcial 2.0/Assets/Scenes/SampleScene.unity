@@ -4581,6 +4581,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: cat
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7a414ec6fa511f8408af6ef6c54ca620,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8102641116241020577, guid: 7a414ec6fa511f8408af6ef6c54ca620,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -7103,7 +7108,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  distanciaActivacion: 15
+  distanciaActivacion: 14
 --- !u!1 &1940383464
 GameObject:
   m_ObjectHideFlags: 0
@@ -7453,6 +7458,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: cat (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7a414ec6fa511f8408af6ef6c54ca620,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8102641116241020577, guid: 7a414ec6fa511f8408af6ef6c54ca620,
         type: 3}
