@@ -160,5 +160,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db4ddcefcf909b34cb0e12f8599b6e80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiempoDeVida: 6
+  tiempoDeVida: 4
   tagEnemigo: Enemigo
